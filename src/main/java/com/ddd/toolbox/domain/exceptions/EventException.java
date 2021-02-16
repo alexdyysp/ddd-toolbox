@@ -1,4 +1,4 @@
-package com.common.domain.exceptions;
+package com.ddd.toolbox.domain.exceptions;
 
 /**
  * @author daiyuanyang

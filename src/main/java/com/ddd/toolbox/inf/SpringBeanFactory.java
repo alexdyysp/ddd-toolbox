@@ -1,4 +1,4 @@
-package com.common.inf;
+package com.ddd.toolbox.inf;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;

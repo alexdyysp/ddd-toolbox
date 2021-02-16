@@ -1,4 +1,4 @@
-package com.common.domain.entity;
+package com.ddd.toolbox.domain.entity;
 
 /**
  *

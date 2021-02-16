@@ -1,6 +1,6 @@
-package com.common.domain.event;
+package com.ddd.toolbox.domain.event;
 
-import com.common.domain.exceptions.EventException;
+import com.ddd.toolbox.domain.exceptions.EventException;
 import com.google.common.collect.Lists;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

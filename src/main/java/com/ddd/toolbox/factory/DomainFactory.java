@@ -1,7 +1,7 @@
-package com.common.factory;
+package com.ddd.toolbox.factory;
 
-import com.common.domain.entity.Entity;
-import com.common.inf.SpringBeanFactory;
+import com.ddd.toolbox.domain.entity.Entity;
+import com.ddd.toolbox.inf.SpringBeanFactory;
 
 /**
  * @author daiyuanyang

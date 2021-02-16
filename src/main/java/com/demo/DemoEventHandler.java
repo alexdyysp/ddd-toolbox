@@ -1,7 +1,7 @@
 package com.demo;
 
-import com.common.domain.event.EventHandler;
-import com.common.domain.event.IEventHandler;
+import com.ddd.toolbox.domain.event.EventHandler;
+import com.ddd.toolbox.domain.event.IEventHandler;
 
 /**
  * @author daiyuanyang

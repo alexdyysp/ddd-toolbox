@@ -1,6 +1,6 @@
-package com.common;
+package com.ddd.toolbox;
 
-import com.common.factory.DomainFactory;
+import com.ddd.toolbox.factory.DomainFactory;
 import com.demo.DemoAgg;
 import com.demo.SpringDemoApplication;
 import org.junit.Test;

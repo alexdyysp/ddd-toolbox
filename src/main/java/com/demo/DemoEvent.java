@@ -1,6 +1,6 @@
 package com.demo;
 
-import com.common.domain.event.BaseDomainEvent;
+import com.ddd.toolbox.domain.event.BaseDomainEvent;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

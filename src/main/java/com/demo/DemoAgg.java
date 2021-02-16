@@ -1,6 +1,6 @@
 package com.demo;
 
-import com.common.domain.entity.AggregateRoot;
+import com.ddd.toolbox.domain.entity.AggregateRoot;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 

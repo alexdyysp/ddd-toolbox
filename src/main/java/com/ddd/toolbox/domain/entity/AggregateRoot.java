@@ -1,8 +1,8 @@
-package com.common.domain.entity;
+package com.ddd.toolbox.domain.entity;
 
-import com.common.domain.event.BaseDomainEvent;
-import com.common.domain.event.DefaultLocalDomainPublisher;
-import com.common.domain.event.IDomainEventPublisher;
+import com.ddd.toolbox.domain.event.BaseDomainEvent;
+import com.ddd.toolbox.domain.event.DefaultLocalDomainPublisher;
+import com.ddd.toolbox.domain.event.IDomainEventPublisher;
 import lombok.extern.slf4j.Slf4j;
 
 import javax.annotation.Resource;
@@ -17,7 +17,7 @@ import java.util.Objects;
  **/
 @Slf4j
 abstract
-public class AggregateRoot extends Entity{
+public class AggregateRoot extends Entity {
 
     @Resource
     private DefaultLocalDomainPublisher defaultLocalDomainPublisher;

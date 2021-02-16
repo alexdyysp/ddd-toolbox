@@ -1,4 +1,4 @@
-package com.common.domain.event;
+package com.ddd.toolbox.domain.event;
 
 import org.springframework.stereotype.Component;
 

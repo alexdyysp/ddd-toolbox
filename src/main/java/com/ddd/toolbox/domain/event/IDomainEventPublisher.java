@@ -1,4 +1,4 @@
-package com.common.domain.event;
+package com.ddd.toolbox.domain.event;
 
 /**
  * @description: Domain Event Publisher Interface
