@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- *
+ * AggregateRoot
  * @description: Aggregate Root Object
  * @author: daiyuanyang
  * @create: 2021-01-17 20:49

@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>DDD-spring</groupId>
-    <artifactId>ddd-framework</artifactId>
+    <artifactId>ddd-toolbox</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <parent>
