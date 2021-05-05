@@ -82,6 +82,9 @@ public class AggregateRoot extends Entity {
 
     /**
      * default event publish method
+     *  If the event has its own udf publisher, then use it
+     *  If the event is just a event without udf publisher, then use default publisher
+     *
      * @param  event        domain event
      * @throws Exception    exception
      */
